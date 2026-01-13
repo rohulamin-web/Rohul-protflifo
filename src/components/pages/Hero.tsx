@@ -134,7 +134,7 @@ const Hero: React.FC = () => {
             </Link>
 
             <a
-              href="https://drive.google.com/file/d/1nKG8PnAMSQxGBN8I8NqaSU2HEpgqGfyP/view"
+              href="https://drive.google.com/file/d/1UKkNSrmuvbHfHaSz07HVMBhuJyJ20umD/view"
               className="inline-flex items-center px-5 py-3 rounded-4xl text-white bg-blue-600 hover:bg-slate-50 hover:text-black transition"
             >
               View Resume
